@@ -1,5 +1,10 @@
-streamlit
+flask
+scikit-learn
 joblib
+<<<<<<< Updated upstream
 scikit-learn
 flask
 gunicorn
+=======
+gunicorn
+>>>>>>> Stashed changes
